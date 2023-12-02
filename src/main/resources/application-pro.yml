@@ -2,9 +2,9 @@
 spring:
   datasource:
     druid:
-      url: jdbc:mysql://127.0.0.1:3306/geek-temp?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+      url: jdbc:mysql://127.0.0.1:3306/work_shop?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
       username: root
-      password: root
+      password: lcl193866833
   redis:
     #redis数据库索引(默认为0)
     database: 0

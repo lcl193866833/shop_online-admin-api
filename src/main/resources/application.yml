@@ -60,10 +60,10 @@ auth:
 aliyun:
   oss:
     # oss对外服务的访问域名
-    endpoint:
+    endpoint: oss-cn-beijing.aliyuncs.com
     # 访问身份验证中用到用户标识
-    accessKeyId:
+    accessKeyId: LTAI5tD2W7qHu8X1FEknAZXD
     # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
-    accessKeySecret:
+    accessKeySecret: Xuu8V1ObhFZaURBhFvIuFNvT4MKzk4
     # oss的存储空间
-    bucketName:
+    bucketName: shop-lcl
